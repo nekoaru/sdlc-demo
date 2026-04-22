@@ -2,7 +2,6 @@
 
 高性能异步 HTTP 服务示例，使用 **FastAPI + Uvicorn**（Python 最高性能 ASGI Web 框架组合）。
 
-> 关联 Jira issue：[RSC-1](https://realsatomic.atlassian.net/browse/RSC-1) — 把代码语言从 JavaScript 重构为 Python
 
 ## 快速开始
 
@@ -36,6 +35,5 @@ python server.py
 ```
 server.py             # 全部逻辑，单文件
 requirements.txt      # 依赖声明
-REFACTORING_MANUAL.md # 重构手册（JavaScript → Python）
 README.md
 ```
