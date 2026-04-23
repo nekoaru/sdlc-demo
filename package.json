@@ -1,0 +1,16 @@
+{
+  "name": "sdlc-demo",
+  "version": "1.0.0",
+  "description": "High-performance HTTP server (refactored from Python FastAPI to Node.js Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
